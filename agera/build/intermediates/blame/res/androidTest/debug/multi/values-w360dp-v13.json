@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\values-w360dp\\values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]

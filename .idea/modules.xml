@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinDemo.iml" filepath="$PROJECT_DIR$/KotlinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agera/agera.iml" filepath="$PROJECT_DIR$/agera/agera.iml" />
       <module fileurl="file://$PROJECT_DIR$/thirdplatfomdemo/thirdplatfomdemo.iml" filepath="$PROJECT_DIR$/thirdplatfomdemo/thirdplatfomdemo.iml" />
     </modules>
   </component>

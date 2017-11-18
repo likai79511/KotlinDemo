@@ -1,1 +1,1 @@
-include ':thirdplatfomdemo'
+include ':thirdplatfomdemo', ':agera'

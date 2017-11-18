@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    }
+]

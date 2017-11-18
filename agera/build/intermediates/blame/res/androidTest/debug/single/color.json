@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\GitHub\\KotlinDemo\\agera\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]
