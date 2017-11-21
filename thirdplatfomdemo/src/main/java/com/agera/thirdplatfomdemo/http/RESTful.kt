@@ -1,10 +1,11 @@
 package com.agera.thirdplatfomdemo.http
 
+import android.widget.ImageView
 import com.google.android.agera.net.HttpRequest
 import com.google.android.agera.net.HttpRequests
 
 /**
- * Created by Administrator on 2017/11/17 0017.
+ * Created by Agera K
  */
 class RESTful {
     companion object {

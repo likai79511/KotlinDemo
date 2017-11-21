@@ -7,7 +7,7 @@ import com.google.android.agera.net.HttpResponse
 import java.util.concurrent.Callable
 
 /**
- * Created by Administrator on 2017/11/17 0017.
+ * Created by Agera K
  */
 class HttpCallable(var req: HttpRequest) : Callable<Result<HttpResponse>> {
     override fun call(): Result<HttpResponse>? {

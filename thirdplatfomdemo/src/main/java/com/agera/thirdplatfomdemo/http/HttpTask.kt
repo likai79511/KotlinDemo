@@ -7,7 +7,7 @@ import java.util.concurrent.FutureTask
 import java.util.concurrent.TimeUnit
 
 /**
- * Created by Administrator on 2017/11/15 0015.
+ * Created by Agera K
  */
 class HttpTask(cb: HttpCallable) : FutureTask<Result<HttpResponse>>(cb) {
 

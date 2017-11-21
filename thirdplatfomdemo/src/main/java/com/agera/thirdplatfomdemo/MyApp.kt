@@ -5,7 +5,7 @@ import com.sina.weibo.sdk.WbSdk
 import com.sina.weibo.sdk.auth.AuthInfo
 
 /**
- * Created by Administrator on 2017/11/17 0017.
+ * Created by Agera K
  */
 class MyApp : Application() {
     val WeiBo_APP_KEY: String = "3525150991"

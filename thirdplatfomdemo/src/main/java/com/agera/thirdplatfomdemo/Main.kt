@@ -31,20 +31,20 @@ import java.util.concurrent.atomic.AtomicBoolean
 
 
 /**
- * Created by Administrator on 2017/11/15 0015.
+ * Created by Agera K
  */
 class Main : Activity(), Updatable {
 
     var listener: IUiListener = object : IUiListener {
         override fun onComplete(p0: Any?) {
             Log.e("---", "--qq onComplete:" + p0)
-          /*  var auth:String = p0 as String
-            var QA:QQAuth = Gson().fromJson(auth,QQAuth::class.java)
+            /*  var auth:String = p0 as String
+              var QA:QQAuth = Gson().fromJson(auth,QQAuth::class.java)
 
-            if (QA.ret == 100030){
-                Log.e("---", "--qq reAuth:")
-                mTencent?.reAuth(this@Main,"add_topic",this)
-            }*/
+              if (QA.ret == 100030){
+                  Log.e("---", "--qq reAuth:")
+                  mTencent?.reAuth(this@Main,"add_topic",this)
+              }*/
 
         }
 
@@ -130,7 +130,7 @@ class Main : Activity(), Updatable {
             mTencent?.let {
                 it.openId = qq.openid
                 var t1: QQToken = it.qqToken
-                t1.setAccessToken(qq.access_token,it.expiresIn.toString())
+                t1.setAccessToken(qq.access_token, it.expiresIn.toString())
                 Log.e("---", "--appid:${t1.appId}\naccessToken:${t1.accessToken}\nopenId:${t1.openId}")
                 var info: UserInfo = UserInfo(this, t1)
                 info.getUserInfo(listener)
