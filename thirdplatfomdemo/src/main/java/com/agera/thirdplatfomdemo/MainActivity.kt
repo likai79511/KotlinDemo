@@ -4,7 +4,6 @@ import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.text.TextUtils
-import android.util.Log
 import com.agera.thirdplatfomdemo.Login.Platform
 import com.agera.thirdplatfomdemo.Login.QQEvent
 import com.agera.thirdplatfomdemo.Login.WBEvent
@@ -30,7 +29,6 @@ class MainActivity : Activity(), Updatable {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         initEvents()
         mRep?.let { it.addUpdatable(this) }
     }
@@ -52,7 +50,7 @@ class MainActivity : Activity(), Updatable {
                 .observe(Sina, QQ)
                 .onUpdatesPerLoop()
                 .attemptGetFrom {
-                    if (signal == null) Result.failure() else Result.success("skip first income")
+                    if (signal == null) Result.failure() else Result.success("skip first-in")
                 }
                 .orSkip()
                 .thenGetFrom {
