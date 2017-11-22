@@ -10,7 +10,7 @@ import com.google.android.agera.net.HttpRequests
 /**
  * Created by Agera K
  */
-class Utils {
+class Utils private constructor(){
 
     companion object {
         private var utils: Utils = Utils()

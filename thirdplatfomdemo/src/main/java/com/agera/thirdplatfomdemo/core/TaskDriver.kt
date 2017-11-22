@@ -8,12 +8,10 @@ import java.util.concurrent.*
  * Created by Agera K
  */
 class TaskDriver private constructor() {
-
-    private var instance: TaskDriver? = null
-
     companion object {
+        private var instance = TaskDriver()
         fun instance(): TaskDriver {
-            return TaskDriver()
+            return instance
         }
     }
 

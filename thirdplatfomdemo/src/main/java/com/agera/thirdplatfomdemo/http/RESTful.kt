@@ -7,11 +7,9 @@ import com.google.android.agera.net.HttpRequests
 /**
  * Created by Agera K
  */
-class RESTful {
+class RESTful private constructor(){
     companion object {
-
         val timeout: Int = 5_000
-
         /*
          *  For Sina WeiBo Constants
          */
