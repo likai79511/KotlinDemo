@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\123\\KotlinDemo\\agera\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\323070e11094d2013e84f890e26dbe5fbb45e067\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    }
+]
